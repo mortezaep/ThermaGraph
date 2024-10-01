@@ -1,0 +1,6 @@
+[
+    ["Surface", "Injection well", "non-isentropic"],
+    ["Injection well", "Reservoir", "non-isentropic"],
+    ["Reservoir", "Production well", "non-isentropic"],
+    ["Production well", "Surface", "non-isentropic"]
+]
